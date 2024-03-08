@@ -32,28 +32,28 @@
 </div>
 <%@ include file="./components/message.jsp"%>
 <div class="text-center">
-<h2 class="text-color">Start thinking wellness not illness</h2>
+<h2 class="text-color">Directly connects the test services with the main Hospital</h2>
 </div>
 <div class="card-group md-5">
   <div class="card custom-bg ml-5 mr-3 mb-5">
     <img class="card-img-top" src="resources/images/doctors.png" alt="Card image cap">
     <div class="card-body">
-      <h2 class="card-title text-center text-color">Our Doctors</h2>
-      <p class="card-text">The job of a doctor is to diagnose and treat illness and injury.</p>
+      <h2 class="card-title text-center text-color">Doctors</h2>
+      <p class="card-text">The patients will be tested through qualified specialists</p>
     </div>
   </div>
   <div class="card custom-bg ml-3 mr-3 mb-5">
     <img class="card-img-top mt-4" src="resources/images/nurses.png" alt="Card image cap">
     <div class="card-body">
-      <h2 class="card-title text-center text-color mt-3">Our Nurses</h2>
-      <p class="card-text">A nurse is a person who is trained to give care to people who are sick or injured.</p>
+      <h2 class="card-title text-center text-color mt-3">Nursing Staff</h2>
+      <p class="card-text">The faster service is carried within the support of nursing staff behind</p>
     </div>
   </div>
   <div class="card custom-bg ml-3 mr-5 mb-5">
     <img class="card-img-top" src="resources/images/medicines.png" alt="Card image cap">
     <div class="card-body">
-      <h2 class="card-title text-center text-color">Our Medicines</h2>
-      <p class="card-text">Medicines are chemicals or compounds used to cure, halt, or prevent disease</p>
+      <h2 class="card-title text-center text-color">Medicines</h2>
+      <p class="card-text">Proper medical recommendations will be provided according to the condition of each patient after the doctor test them.</p>
     </div>
   </div>
 </div>
