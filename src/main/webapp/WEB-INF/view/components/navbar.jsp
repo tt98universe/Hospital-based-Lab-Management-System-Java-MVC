@@ -18,7 +18,7 @@
         <a class="nav-link"><b><span class="text-color">About us</span></b><span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item active  ml-5" data-toggle="modal" data-target=".contactusmodal">
-        <a class="nav-link text-color"><b><span class="text-color">Developers Contact</span></b></a>
+        <a class="nav-link text-color"><b><span class="text-color">Help Center</span></b></a>
       </li>
        <li class="nav-item active  ml-5">
         <a class="nav-link text-color" href="login"><b><span class="text-color">Login</span></b></a>
